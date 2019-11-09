@@ -1,0 +1,104 @@
+h1{
+    text-align: center;
+    margin: 40px 0 40px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+    font-family: cursive;
+
+}
+
+header
+{
+    margin-left: 83%;
+    height: 50px;
+    width: 250px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+header a
+{
+    line-height: 50px;
+    height: 100%;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+nav{
+    margin: 17px auto 0;
+    width: 420px;
+    height: 50px;
+    background-color: yellow;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+nav a{
+    line-height: 50px;
+    height: 100%;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+a:nth-child(1){     width: 100px;   }
+a:nth-child(2){     width: 100px;   }
+a:nth-child(3){     width: 100px;   }
+a:nth-child(4){     width: 100px;   }
+
+body{
+    font-size: 15px;
+    font-family: cursive;
+    background: black;
+}
+
+section .info
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+    background-image: url("images/ppap.jpg");
+}
+.box
+{
+    height: 585px;
+    width: 600px;
+    background-color: yellow;
+    margin: 30px auto;
+    opacity: .7;
+}
+
+footer
+{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+}
+
+
+
+section .new
+{
+    height: 100%;
+    width: 100%;
+    margin-top: 0px;
+    background-image: url("images/back.jpg");
+}
+.newbox
+{
+    height: 800px;
+    width: 1000px;
+    background-color: yellow;
+    margin: 30px auto;
+    opacity: .9;
+}
+.container
+{
+    font-size: 15px;
+    font-family: cursive;
+    color: red;
+}
